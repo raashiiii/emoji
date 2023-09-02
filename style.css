@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+}
+.emoji{
+    position: relative;
+    margin-left: 10rem;
+    margin-top: 10rem;
+}
+.face{
+    width: 20rem;
+    height: 20rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.eye1{
+    width: 25%;
+    height: 15% ;
+    position: absolute;
+    border-radius: 30%;
+    background-color: white;
+    margin-left: 3.0rem;
+    margin-top: 6rem;
+}
+.eyeball1{
+    width: 2rem;
+    height: 2rem ;
+    position: absolute;
+    border-radius: 2rem;
+    background-color: black;
+    margin-left: 4.5rem;
+    margin-top: 6.5rem;
+}
+.eye2{
+    width: 25%;
+    height: 15%;
+    position: absolute;
+    border-radius: 30%;
+    background-color: white;
+    margin-left: 12rem;
+    margin-top: 6rem;
+}
+.eyeball2{
+    width: 2rem;
+    height: 2rem ;
+    position: absolute;
+    border-radius: 2rem;
+    background-color: black;
+    margin-left: 13.5rem;
+    margin-top: 6.5rem;
+}
+.mouth{
+    width: 8rem;
+    height: 4rem;
+    position: absolute;
+    border-radius: 40px 40px 40px 40px;
+    background-color: brown;
+    margin-left: 6rem;
+    margin-top: 12rem;
+}
+.teeth1{
+    height: 2rem;
+    width: 2rem;
+    margin-top: 16.1%;
+    margin-left: 10%;
+    background-color: aliceblue;
+    position: absolute;
+}
+.teeth2{
+    height: 2rem;
+    width: 2rem;
+    margin-top: 16.1%;
+    margin-left: 14%;
+    background-color: aliceblue;
+    position: absolute;
+}
+.teeth3{
+    height: 2rem;
+    width: 2rem;
+    margin-top: 19%;
+    margin-left: 12%;
+    background-color: aliceblue;
+    position: absolute;
+}
+
